@@ -6,8 +6,8 @@ This repository contains the Python implementation of MOFARO (Multi-Objective Fr
 The code includes a custom Python-based simulator to evaluate MOFARO against baseline algorithms (FCFS, EDF, GfE, Detour, PSG, PSG-M) using synthetic datasets inspired by real-world traces (e.g., Google Cluster Traces, Azure Public Datasets). It generates performance metrics and visualizations for makespan, number of satisfied tasks, percentage of deadline-satisfied tasks (PDST), energy consumption, cost, and total penalty.
 Repository Structure
 
-MOFARO/
-├── src/
+MOFARO
+├── src
 │   ├── MOFARO_Simulations  # Jupyter notebook with MOFARO and baseline implementations
 │   ├── Final MOFARO_Simulations  # Jupyter notebook 
 │   ├── TOFDS_Simulations  # Jupyter notebook 
@@ -151,6 +151,7 @@ Notes
     Extensibility: The README suggests potential improvements (e.g., complex DAGs, external datasets) to guide users who want to extend the code.
 
 Let me know if you need help creating the requirements.txt, LICENSE file, or further refinements to the README!
+
 
 
 
