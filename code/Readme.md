@@ -12,6 +12,9 @@ The code includes a custom Python-based simulator to evaluate MOFARO against bas
 MOFARO/
 ├── src/
 │   ├── MOFARO_Simulation.ipynb  # Jupyter notebook with MOFARO and baseline implementations
+│   ├── Final_MOFARO_Simulation.ipynb  # Jupyter notebook
+│   ├── AADS_Simulation.ipynb  # Jupyter notebook
+│   ├── TOFDS_Simulation.ipynb  # Jupyter notebook
 ├── README.md                 # This file
 
 ```
