@@ -8,7 +8,10 @@ Repository Structure
 
 MOFARO/
 ├── src/
-│   ├── MOFARO_Simulation.ipynb  # Jupyter notebook with MOFARO and baseline implementations
+│   ├── MOFARO_Simulations  # Jupyter notebook with MOFARO and baseline implementations
+│   ├── Final MOFARO_Simulations  # Jupyter notebook 
+│   ├── TOFDS_Simulations  # Jupyter notebook 
+│   ├── AADS_Simulations  # Jupyter notebook
 ├── README.md                 # This file
 
 Note: The current implementation is contained in MOFARO_Simulation.ipynb. You may refactor it into separate Python modules (e.g., mofaro.py, simulator.py) for better modularity, as suggested in the structure above.
@@ -148,4 +151,5 @@ Notes
     Extensibility: The README suggests potential improvements (e.g., complex DAGs, external datasets) to guide users who want to extend the code.
 
 Let me know if you need help creating the requirements.txt, LICENSE file, or further refinements to the README!
+
 
